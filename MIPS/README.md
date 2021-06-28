@@ -1,6 +1,7 @@
 # MIPS
 
 **Autor:** _Bartłomiej Krawczyk_
+
 **Przedmiot:** _Architektura komputerów (ARKO)_
 
 ## Zadanie
