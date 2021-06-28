@@ -1,6 +1,7 @@
 # x86_64
 
 **Autor:** _Bartłomiej Krawczyk_
+
 **Przedmiot:** _Architektura komputerów (ARKO)_
 
 ## Zadanie
