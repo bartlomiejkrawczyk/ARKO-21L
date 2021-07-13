@@ -13,6 +13,6 @@ Zdjęcie oryginalne:
 
 ![Oryginał](./Examples/MonaLisa.bmp)
 
-Zdjęcie po zastosowaniu filtru:
+Zdjęcie po zastosowaniu filtra:
 
 ![Rezultat](./Examples/MonaLisa-Filtered.bmp)
